@@ -38,10 +38,24 @@ Telco客戶流失數據集包括了7043個虛擬客戶，家庭，生命週期�
 - 運營信號：
   
   客戶狀態，滿意度分數，流失分數，流失分類，流失原因，客戶終身價值，地理區域
-## 
+## 數據處理
+1. 數據清理並規範列名，拆解關鍵商業字段（流失標籤，狀態等）
+2. 
 ## 項目結構
 ```
-Telco_Churn
+├── app.py
+├── data
+│   └── telco.csv
+├── pages
+│   ├── Home.py
+│   ├── Map.py
+│   └── Risk.py
+├── tools
+│   ├── color.py
+│   └── data.py
+├── pyproject.toml
+├── uv.lock
+└── README.md
 ```
 ## 如何運行
 ## 使用技術
