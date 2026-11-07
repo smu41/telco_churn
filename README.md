@@ -60,6 +60,6 @@ Telco客戶流失數據集包括了7043個虛擬客戶，家庭，生命週期�
 ```
 ## 如何運行
 ```
-clone https://github.com/smu41/telco_churn.git
+git clone https://github.com/smu41/telco_churn.git
 ```
 ## 使用技術
