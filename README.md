@@ -63,4 +63,12 @@ Telco客戶流失數據集包括了7043個虛擬客戶，家庭，生命週期�
 ```
 git clone https://github.com/smu41/telco_churn.git
 ```
+安裝依賴
+```
+uv sync or python -m pip install -e .
+```
+運行項目
+```
+uv run streamlit run app.py or streamlit run app.py
+```
 ## 使用技術
