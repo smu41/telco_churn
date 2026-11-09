@@ -72,3 +72,9 @@ uv sync or python -m pip install -e .
 uv run streamlit run app.py or streamlit run app.py
 ```
 ## 使用技術
+```
+Numpy
+Pandas
+Streamlit
+Plotly
+```
